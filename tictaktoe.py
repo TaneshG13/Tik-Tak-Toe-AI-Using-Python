@@ -1,10 +1,8 @@
 import sys
 import pygame
-import random
 import copy
 import numpy as np
 from constants import *
-import time
 
 # pygame setup
 pygame.init()
